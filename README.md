@@ -14,4 +14,4 @@ composer require spryker-feature/marketplace-merchant-portal-product-offer-shipm
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductOfferShipmentTypeMerchantPortalGui ^0.1.0](https://github.com/spryker/product-offer-shipment-type-merchant-portal-gui) (MP GUI)
+- [ProductOfferShipmentTypeMerchantPortalGui ^1.0.0](https://github.com/spryker/product-offer-shipment-type-merchant-portal-gui) (MP GUI)
