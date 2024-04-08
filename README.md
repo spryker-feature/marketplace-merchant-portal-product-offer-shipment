@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Portal Product Offer Shipment
 
-
+The product offer extension with shipment types.
 
 ## Installation
 
